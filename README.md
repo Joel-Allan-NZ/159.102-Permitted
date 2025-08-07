@@ -10,7 +10,7 @@
  - fstream
 ### 159.102
 
-## Notes explicitly linking to class documentation (grey area?)
+## Notes explicitly linking to full header/class documentation (grey area?)
 - fstream
 - string
 - cmath
