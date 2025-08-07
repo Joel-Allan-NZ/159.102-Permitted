@@ -1,1 +1,75 @@
-# 159.102-Permitted
+# Updated to Assignment 1 on 7/8/25
+
+## Headers
+### 159.101
+ - iostream
+ - cmath
+ - iomanip
+ - cstdlib
+ - string
+ - fstream
+### 159.102
+
+## Notes explicitly linking to class documentation (grey area?)
+- fstream
+- string
+- cmath
+- iomanp
+- cstdlib
+
+## Functions etc
+### 159.101
+- cout/cin. Line termination with endl or \n
+- exit()
+- abs()
+- rand() and srand()
+- cout.width()
+- setprecision() 
+- getchar()
+- getline()
+- fstream .open()
+- fstream .close()
+- .c_str()
+- string.capacity()
+### 159.102
+- sizeof()
+- 
+
+
+## Other Concepts and language features
+### 159.101
+- primitives (explicitly int, float, char, bool)
+- boolean logic and logical operators: negations, equivalence, inequalities, &&, ||
+- integer arithmetic including modulus.
+- realm number arithmetic.
+- if/else statements.
+- namespaces
+- field widths
+- While and for loops
+- post-increment and post-decrement
+- break;
+- Arrays
+- Bubble Sort
+- Functions. Parameters, return types, prototypes.
+- Scope (specifically local vs global variables)
+- char ascii values
+- in/output buffers and flushing the buffer
+- strings as an array of characters
+- string concatenation
+- 2-dimensional arrays
+- reading from, writing to, and appending text files (including .csv files)
+- fstream::out, fstream::app, fstream::in
+- Classes and Objects
+- public vs private members
+- methods and properties
+- c++ strings are objects rather than primitives
+- switch statements
+### 159.102
+- some other primitives (short and double)
+- different number systems: binary, octal, hexadecimal
+- binary integer representations and related concepts: fixed word sizes, most significant bit, complement+twos complement, carry.
+- negative binary integers and binary real number representation
+- bitwise operators - &, |, ^, ~, <<, >>
+- bitmasks
+- unsigned variables
+- pseudo random numbers. Seeds.
