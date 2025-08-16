@@ -1,4 +1,4 @@
-# Updated through week 6
+# Updated through week 7
 
 ## Headers
 ### 159.101
@@ -75,3 +75,7 @@
 - pseudo random numbers. Seeds.
 - pointers, calling by reference and calling values by reference
 - NULL pointers
+- class portability
+- applications of pointers with classes
+- using pointers to allocate memory
+- explanation of C strings vs C++ strings
