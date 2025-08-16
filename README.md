@@ -1,4 +1,4 @@
-# Updated through week 7
+# Updated through week 8
 
 ## Headers
 ### 159.101
@@ -79,3 +79,6 @@
 - applications of pointers with classes
 - using pointers to allocate memory
 - explanation of C strings vs C++ strings
+- recursion.
+- some searching algorithms - linear vs binary search
+- backtracking and some initial ideas around graphs and path finding
