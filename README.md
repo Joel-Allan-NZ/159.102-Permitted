@@ -1,4 +1,4 @@
-# Updated to Assignment 1 on 7/8/25
+# Updated through week 6
 
 ## Headers
 ### 159.101
@@ -73,3 +73,5 @@
 - bitmasks
 - unsigned variables
 - pseudo random numbers. Seeds.
+- pointers, calling by reference and calling values by reference
+- NULL pointers
