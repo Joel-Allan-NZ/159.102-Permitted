@@ -1,4 +1,4 @@
-# Updated through week 8
+# Updated through week 9
 
 ## Headers
 ### 159.101
@@ -33,7 +33,9 @@
 - string.capacity()
 ### 159.102
 - sizeof()
-- 
+- system()
+- clear screen (cls() or clear())
+  
 
 
 ## Other Concepts and language features
@@ -82,3 +84,7 @@
 - recursion.
 - some searching algorithms - linear vs binary search
 - backtracking and some initial ideas around graphs and path finding
+- Terminal Commands - cd, dir, ls. 
+- Output redirection (`>`)
+- RGB values
+- `.ppm` files
