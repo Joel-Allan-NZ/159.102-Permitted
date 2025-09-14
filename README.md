@@ -1,4 +1,4 @@
-# Updated through week 9
+# Updated through week 10
 
 ## Headers
 ### 159.101
@@ -9,6 +9,8 @@
  - string
  - fstream
 ### 159.102
+- vector
+- stack
 
 ## Notes explicitly linking to full header/class documentation (grey area?)
 - fstream
@@ -88,3 +90,4 @@
 - Output redirection (`>`)
 - RGB values
 - `.ppm` files
+- Non-array data structures (Vectors, Stacks)
